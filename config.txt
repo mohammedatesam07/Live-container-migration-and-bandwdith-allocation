@@ -1,0 +1,10 @@
+container_name=source
+server_ip=localhost
+username=Atesam
+bandwidth_limit=1000
+checkpoint_path=/home/Atesam/Documents/DS/checkpoints/
+checkpoint_directory=/home/Atesam/Documents/DS/migrated_checkpoints
+port=22
+protocol=TCP
+
+
